@@ -4,14 +4,14 @@ let fetch = require('node-fetch')
 let handler = async (m, { conn }) => {
 
 let str = `*───────[ BIODATA OWNER ]───────*
-*💌 Nama* : ROZI
-*🎨 Umur* : 15
+*💌 Nama* : PINO
+*🎨 Umur* : 18
 *📈 Status* : Busy
 *───────[ SOSIAL MEDIA ]───────*
-*📷 instagran* : zalfapontianak
+*📷 instagran* : @xnoob_ganz
 *🇫  Facebook* : -
-*🏮 Chanel Youtube* : -
-  ⬣━〔Powered By Rozi〕━⬣
+*🏮 Chanel Youtube* : PINO MODZ
+  ⬣━〔Powered By Pino〕━⬣
 ©️ zifabotz`
 let name = await conn.getName(m.sender)
 
@@ -24,9 +24,9 @@ let fkon = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ?
       "product": {
         "productImage": image,
         "productId": "4938174216214248",
-        "title": "OWNER ZIFABOTZ",
+        "title": "OWNER BOT WA",
         "description": '\n' + watermark + '\n' + str,
-        "retailerId": "Thanks For zifabotz !",
+        "retailerId": "Thanks For botwhatsapp !",
         "url": "▌│█║▌║▌║║▌║▌║█│▌",
         "descriptionCount": "999999999",
         "productImageCount": "1",
