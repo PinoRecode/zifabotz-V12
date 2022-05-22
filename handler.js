@@ -412,9 +412,9 @@ module.exports = {
                 this.reply(jid, text, 0, { thumbnail: kai, contextInfo: {
                 mentionedJid: [user],
                 externalAdReply: {
-                  mediaUrl: 'https://youtu.be/-tKVN2mAKRI',
+                  mediaUrl: 'https://youtu.be/ixzYe1CbODY',
                   title: action === 'add' ? wel : lea,
-                  body: '𝙕𝙞𝙛𝙖𝘽𝙤𝙩𝙯',
+                  body: 'BOT WHATSAPP',
                   thumbnail: poi
                 }
               }}) 
