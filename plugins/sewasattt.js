@@ -18,7 +18,7 @@ _____•••••••••
         sections:  [{title: "STORE SATBOTSSS", rows: [
         {title: 'Menu utama', description: "Kembali ke Menu Utama", rowId:".?"},
         {title: 'nomor owner satbotsss', description: "kalau mau sewa silahkan cht owner satbotsss", rowId:".ownersatbotsss"},
-        {title: 'RULES', description: "rules zifabotz", rowId:".rules"},
+        {title: 'RULES', description: "rules botwhatsapp", rowId:".rules"},
        ] }],
         listType: 1
        }
