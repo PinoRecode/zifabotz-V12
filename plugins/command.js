@@ -1,36 +1,24 @@
 let handler = async (m, { conn }) => {
 let caption = `♡   ❍ㅤ  ⎙ㅤ ⌲
-╭─[ ZIFABOTZ ]─✧
+╭─[ BOT WHATSAPP ]─✧
 ╰─────···
 📮 𝚂𝚒𝚕𝚊𝚑𝚔𝚊𝚗 𝚙𝚒𝚕𝚒𝚑 𝚖𝚎𝚗𝚞 𝚍𝚒 𝚋𝚊𝚠𝚊𝚑 𝚒𝚗𝚒_____•••••••••
-⬣━〔Powered By Rozi━⬣
+⬣━〔Powered By Pino━⬣
 ▌│█║▌║▌║║▌║▌║█│▌
 *║╭──❉ 〔Utama〕*
 ║│➸.onketik
-║│➸.sewazifa
 ║│➸.biodata
-║│➸.groupbot
 ║│➸.iklan
 ║│➸.linktermux
 ║│➸.lucbot
 ║│➸.menu
 ║│➸.help
 ║│➸.?
-║│➸.tutorbot
-║│➸.panduan
-║│➸.runbotmursid
 ║│➸.sewa
-║│➸.sewasat
-║│➸.sewazifabotz1
 ║│➸.menu
 ║│➸.help
 ║│➸.?
 ║│➸.tambah <judul>|<nomor>|<desc>
-║│➸.Thanksto
-║│➸.tqto
-║│➸.heroku3
-║│➸.tutorial
-║│➸.replit2
 *╰───❉*
 
 *║╭──❉ 〔Game〕*
@@ -498,13 +486,9 @@ let caption = `♡   ❍ㅤ  ⎙ㅤ ⌲
 ║│➸.bannedlist
 ║│➸.blocklist
 ║│➸.botstatus
-║│➸.owner
-║│➸.creator
 ║│➸.del
 ║│➸.delete
 ║│➸.donasi
-║│➸.donasi
-║│➸.github
 ║│➸.groups
 ║│➸.grouplist
 ║│➸.haori1
@@ -518,19 +502,6 @@ let caption = `♡   ❍ㅤ  ⎙ㅤ ⌲
 ║│➸.runtime
 ║│➸.rules
 ║│➸.ping
-║│➸.totalfitur
-║│➸.tiktok
-║│➸.owner
-║│➸.creator
-║│➸.owner
-║│➸.creator
-║│➸.viadana
-║│➸.viapulsa
-║│➸.yutube
-║│➸.zifa1
-║│➸.zifa2
-║│➸.owner
-║│➸.creator
 ║│➸.owner
 ║│➸.creator
 *╰───❉*
